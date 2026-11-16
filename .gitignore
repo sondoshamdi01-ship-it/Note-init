@@ -1,0 +1,19 @@
+# Dépendances
+node_modules/
+
+# Builds
+dist/
+build/
+
+# Secrets et configuration locale
+.env
+
+# Logs
+*.log
+npm-debug.log*
+
+# Fichiers système / éditeurs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
